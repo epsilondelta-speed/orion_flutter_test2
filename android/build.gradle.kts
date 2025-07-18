@@ -8,7 +8,7 @@ android {
     compileSdk = 35
 
     defaultConfig {
-        minSdk = 21
+        minSdk = 26
         targetSdk = 34
     }
 
@@ -29,5 +29,5 @@ repositories {
 }
 
 dependencies {
-    implementation("co.epsilondelta:orion-flutter:1.0.0")
+
 }
