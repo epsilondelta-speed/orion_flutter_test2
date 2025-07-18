@@ -25,11 +25,9 @@ android {
 repositories {
     google()
     mavenCentral()
-     flatDir {
-        dirs("libs") // 👈 Tells Gradle to look for .aar here
-    }
+
 }
 
 dependencies {
-   implementation(":orion_flutter-release@aar") // ✅ correct in .kts
+    implementation("co.epsilondelta:orion-flutter:1.0.0")
 }
