@@ -1,2 +1,2 @@
-# orion_flutter_test1
-orion_flutter_private test1 repo
+# orion_flutter_test2
+orion_flutter_private test2 repo
